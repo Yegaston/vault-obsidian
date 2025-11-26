@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "c991fcf04ee9bb03",
+    "type": "split",
+    "children": [
+      {
+        "id": "0911584c4386f098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2e0f63da992b2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DRVN/VIP/Actual Register flow MDS - VIP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actual Register flow MDS - VIP"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2beb9dc154d75559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b8ca553b32c5d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59a5b83bb65c03d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd1a27faee2deee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb32ecc5164f47db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b3f1afe86c0935f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e03e39c2064449cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b35149893b5d74e",
+    "type": "split",
+    "children": [
+      {
+        "id": "868020ee8531dbd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e9c38937bb8c0cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DRVN/VIP/Actual Register flow MDS - VIP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Actual Register flow MDS - VIP"
+            }
+          },
+          {
+            "id": "6e327aa88172f502",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DRVN/VIP/Actual Register flow MDS - VIP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Actual Register flow MDS - VIP"
+            }
+          },
+          {
+            "id": "79b147b4bb71b0f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "31c5fc2dfe7e1f49",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2c8067509256bfab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DRVN/VIP/Actual Register flow MDS - VIP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Actual Register flow MDS - VIP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f2e0f63da992b2ac",
+  "lastOpenFiles": [
+    "untitled folder",
+    "Welcome.md",
+    "DRVN/VIP/Actual Register flow MDS - VIP.md",
+    "DRVN/VIP",
+    "DRVN"
+  ]
+}
