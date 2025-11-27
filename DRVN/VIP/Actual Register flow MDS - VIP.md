@@ -31,6 +31,8 @@ second step, is validate email, should receive on your inbox a code that you put
 
 After that step, the third step is to validate mobile phone, should receive a code via SMS and put on the GUI, doing this http request
 
+`POST : https://mds-vip-staging.moveo.net/vip-app/validatePhoneRegistrationCode`
+
 ```json
 {
   "captcha": "long-captacha-token",
